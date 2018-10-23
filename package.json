@@ -53,7 +53,7 @@
   "dependencies": {
     "debug": "^2.2.0",
     "glob": "^7.1.1",
-    "mongodb-download": "github:joebach71/mongodb-download#fix.setVersion",
+    "mongodb-download": "github:joebach71/mongodb-download",
     "spawn-sync": "1.0.15",
     "yargs": "^3.26.0"
   },
